@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "GooDAnDReaDY/dsh-session-control",
+  "name": "dsh-session-control",
+  "repository": "https://github.com/GooDAnDReaDY/dsh-session-control",
+  "category": "session",
+  "description": {
+    "en": "Session management for the DSH sidebar: pin conversations, search their contents, read archived transcripts and hide noise",
+    "zh": "DSH 侧边栏会话管理：固定对话、搜索内容、读取归档记录并隐藏噪音"
+  },
+  "added": "2026-09-07"
+}
