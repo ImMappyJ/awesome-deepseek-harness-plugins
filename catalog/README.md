@@ -8,7 +8,7 @@ The **DSH 1024Store** community catalog for [DeepSeek Harness](https://github.co
 
 **This project is more than an awesome list.** It also ships a hosted plugin marketplace, a plugin that puts that marketplace inside `dsh` itself, and a free public query API — that application code lives in the sibling repository [dsh-1024store](https://github.com/imsai-sh/dsh-1024store); this repository is the catalog itself: a statically validated PR submission pipeline and the generated directory READMEs, with an automated collection service feeding the data. Everything is MIT licensed, so you can fork it and run your own marketplace.
 
-[![The DSH 1024Store plugin marketplace homepage](https://raw.githubusercontent.com/imsai-sh/awesome-deepseek-harness-plugins/assets/homepage.en.png?v=679a0f5c26b3)](https://deepseek1024.com/)
+[![The DSH 1024Store plugin marketplace homepage](https://raw.githubusercontent.com/imsai-sh/awesome-deepseek-harness-plugins/assets/homepage.en.png?v=a1c981a61edd)](https://deepseek1024.com/)
 
 [Live website](https://deepseek1024.com/) · [API reference](https://github.com/imsai-sh/dsh-1024store/blob/main/web/docs/api.md) · [中文目录](../README.md) · [Submit a plugin](../CONTRIBUTING.md) · [Site & CLI source](https://github.com/imsai-sh/dsh-1024store)
 
@@ -41,7 +41,7 @@ Monorepo subpackage plugins publish and install their own npm packages, and each
 
 Groups are collapsed by default. GitHub renders only so much of a single file, so the largest categories list a subset — each summary says how many — while smaller ones are complete. Search the [live website](https://deepseek1024.com/) for the full catalog.
 
-- [UI Enhancements](#ui) (2616)
+- [UI Enhancements](#ui) (2615)
 - [Themes & Appearance](#theme) (494)
 - [Sessions & Messages](#session) (861)
 - [Memory](#memory) (433)
@@ -50,14 +50,14 @@ Groups are collapsed by default. GitHub renders only so much of a single file, s
 - [Workflow & Automation](#workflow) (768)
 - [Notifications & Integrations](#notify) (493)
 - [Models & Providers](#model) (813)
-- [Development & Runtime](#dev) (1606)
+- [Development & Runtime](#dev) (1607)
 - [Just for Fun](#fun) (558)
 - [Unclassified](#unclassified) (1)
 
 <a id="ui"></a>
 
 <details>
-<summary><strong>UI Enhancements</strong> · showing 234 of 2616</summary>
+<summary><strong>UI Enhancements</strong> · showing 234 of 2615</summary>
 
 - [01_content](https://github.com/Aisland-SJL/dsh-worktable/tree/HEAD/01_content) — Adds a sidebar app drawer and dockable split workspace to the harness, creating a live control room for projects.
 - [a2ui-render-in-dsh](https://github.com/baihui-ai/a2ui-render-in-dsh) — Interactive A2UI cards for the dsh web UI — quizzes, forms, charts and diagrams rendered inline in the conversation, with a full action loop back to the agent.
@@ -293,7 +293,7 @@ Groups are collapsed by default. GitHub renders only so much of a single file, s
 - [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) — Select text → annotate → send with your message; replies map back to each annotation.
 - [dsh-annotation](https://github.com/ruisenbai/dsh-inline-comments) — Inline, batchable comments for DeepSeek Harness assistant replies
 - [dsh-annotation-patched](https://github.com/DDDFXYqiming/dsh-annotation-patched) — DSH Web annotation/quote plugin (fork enhanced)
-- *GitHub only renders so much of one file, so 2382 more plugins in this category did not fit here — search or browse the full catalog on the [live website](https://deepseek1024.com/).*
+- *GitHub only renders so much of one file, so 2381 more plugins in this category did not fit here — search or browse the full catalog on the [live website](https://deepseek1024.com/).*
 
 </details>
 
@@ -2277,7 +2277,7 @@ Groups are collapsed by default. GitHub renders only so much of a single file, s
 <a id="dev"></a>
 
 <details>
-<summary><strong>Development &amp; Runtime</strong> · showing 231 of 1606</summary>
+<summary><strong>Development &amp; Runtime</strong> · showing 231 of 1607</summary>
 
 - [_template](https://github.com/messiahyl/dsh-plugins/tree/HEAD/packages/_template) — Provides a monorepo template for developing DSH plugins, with installation sources and third-party directory.
 - [_template](https://github.com/satan9394/dsh-skills-bundle/tree/HEAD/plugins/_template) — Provides a template for creating new dsh plugins.
@@ -2510,7 +2510,7 @@ Groups are collapsed by default. GitHub renders only so much of a single file, s
 - [dsh-bisect-debug](https://github.com/PangYiMing/dsh-bisect-debug) — DSH plugin: bisect bugs (code / boundary / commit) — 二分法定位 bug 根因
 - [dsh-biz-bridge](https://github.com/NewSpringWei/dsh-biz-bridge) — Exposes DeepSeek Harness agent capabilities to external business systems via standard HTTP protocol.
 - [dsh-blast-radius](https://github.com/haoku123/dsh-blast-radius) — DeepSeek Harness plugin: semantic blast radius for agent code edits — who calls what the agent just changed, and which of those callers have no test
-- *GitHub only renders so much of one file, so 1375 more plugins in this category did not fit here — search or browse the full catalog on the [live website](https://deepseek1024.com/).*
+- *GitHub only renders so much of one file, so 1376 more plugins in this category did not fit here — search or browse the full catalog on the [live website](https://deepseek1024.com/).*
 
 </details>
 
